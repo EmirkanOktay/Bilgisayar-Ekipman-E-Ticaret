@@ -20,9 +20,15 @@ Bootstrap
 
 Sayfanın anasayfasından birkaç fotoğraf. Devamı için sağdaki linkten tamamına erişebilirsiniz.
 
-![Ekran görüntüsü 2024-08-18 200139](https://github.com/user-attachments/assets/c1440d24-08b9-4547-a2b2-9e5062c21007)
-![Ekran görüntüsü 2024-08-18 200126](https://github.com/user-attachments/assets/81c80b31-94d9-4556-8a5f-9975add01d9e)
-![Ekran görüntüsü 2024-08-18 200118](https://github.com/user-attachments/assets/3923fd4b-c6b0-4729-82c1-eadf043032c5)
 ![Ekran görüntüsü 2024-08-18 200110](https://github.com/user-attachments/assets/96d09ea1-f8dd-45a7-9e90-8d7d38a2e46d)
+
+![Ekran görüntüsü 2024-08-18 200126](https://github.com/user-attachments/assets/81c80b31-94d9-4556-8a5f-9975add01d9e)
+
+![Ekran görüntüsü 2024-08-18 200118](https://github.com/user-attachments/assets/3923fd4b-c6b0-4729-82c1-eadf043032c5)
+
+![Ekran görüntüsü 2024-08-18 200139](https://github.com/user-attachments/assets/c1440d24-08b9-4547-a2b2-9e5062c21007)
+
+
 ![Ekran görüntüsü 2024-08-18 200219](https://github.com/user-attachments/assets/5208f5ef-1fac-4875-bdc2-cc72bc0bc6ce)
+
 ![Ekran görüntüsü 2024-08-18 200150](https://github.com/user-attachments/assets/376c3957-35e9-4ff7-a229-4221cdafebb6)
