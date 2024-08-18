@@ -1,0 +1,166 @@
+*{
+    margin: 0px;
+    margin-top: -6.9px;
+    padding: 0px;
+}
+
+
+.form{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+
+
+.form .sol {
+    color: white;
+    width: 40%;
+}
+
+.form .sol h3 {
+    font-weight: 600;
+    font-size: 50px;
+}
+
+.sag {
+    position: relative;
+    left: 15%;
+}
+
+.sag input {
+    border: none;
+    border-bottom: 1px solid white; 
+    background-color: transparent; 
+    outline: none; 
+    margin-top: 70px; 
+    color: white; 
+    width: 400px;
+}
+
+
+    .sag a {
+        margin-top: 20px;
+        text-decoration: none;
+        color: white !important;
+        font-size: 25px !important;
+        padding: 10px !important;
+        background-color: #ec2525 !important;
+        width: 200px !important;
+        height: 60px !important;
+        align-items: center !important;
+        border-radius: 25px !important;
+        transition: 0.3s;
+    }
+    
+    .sag a:hover{
+    background-color: rgba(0, 0, 0, 0.5) !important;
+    border: 1px solid white !important;
+    color: white !important;
+    }
+    
+    .error-message {
+        color: red;
+        display: none; 
+        font-size: 12px;
+        margin-top: 13px;
+    }
+    footer {
+        width: 100%;
+        height: 110vh;
+        background-color: black;
+    }
+    
+    footer .container{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    footer .row{
+        width: 100%;
+    }
+    
+    footer .footer-alan {
+        margin-top: 30px;
+    }
+    
+    footer .footer-alan h2{
+    color: white;
+    font-size: 20px;
+    }
+    
+    
+    footer .footer-alan ul li  {
+        list-style-type: none;
+        margin-top: 10px;
+    }
+    footer .footer-alan ul li span{
+        position: relative;
+        right: 8%;
+        color: #8b8a8a;
+        transition: 0.2s;
+    }
+    
+    footer .footer-alan ul li span:hover{
+        color: #a4a3a3;
+        cursor: pointer;
+    }
+    
+    footer .cizgi{
+        margin-top: 50px;
+        margin-bottom: 50px;
+        border-bottom: 1px solid #8b8a8a;
+    }
+    
+    footer .footer-alan2 h5{
+       position: relative;
+       left: 30%;
+       color: #8b8a8a;
+       cursor: pointer;
+       transition: 0.2s;
+    }
+    
+    footer .footer-alan2 h5:hover{
+        color: #a4a3a3;
+    }
+    
+    footer .odeme{
+        width: 50%;
+    }
+    
+    footer .odeme h3{
+        color: white;
+        display: flex;
+        justify-content: center;
+        margin-bottom: 50px;
+    }
+    
+    footer .telif {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        color: #a4a3a3;
+    }
+
+    @media screen and (max-width : 1000px) {
+        .yazi{
+            padding-bottom: 100px;
+        }
+        .form h3 {
+        margin-left: 100px;
+        width: 140%;
+        }
+
+        footer{
+            padding-top: 300px;
+            height: 200vh;
+            overflow: hidden;
+            }
+        
+            .footer .footer-alan h2{
+               text-align: center;
+            }
+    }
